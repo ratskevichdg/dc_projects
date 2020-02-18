@@ -19,4 +19,6 @@ Project's summary:
 
 - Comparing Cosmetics by Ingredients - Ingredient lists processing for cosmetics on Sephora then visualize similarity using t-SNE and Bokeh.
 
+- Exploring the Bitcoin Cryptocurrency Market - Exploration the market capitalization of Bitcoin and other cryptocurrencies
+
 DataCamp Projects link: https://www.datacamp.com/projects
