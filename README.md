@@ -22,8 +22,8 @@ Project's summary:
 - Exploring the Bitcoin Cryptocurrency Market - Exploration the market capitalization of Bitcoin and other cryptocurrencies
 
 - Naive Bees - Consists of three notebooks:
-              + Naïve Bees: Image Loading and Processing - Loading, transforming, and understanding images of honey bees and bumble bees in Python;
-              + Naïve Bees: Predict Species from Images - Building a model that can automatically detect honey bees and bumble bees in images;
-              + Naïve Bees: Deep Learning with Images - Building a deep learning model that can automatically detect honey bees and bumble bees in images.
+    - Naïve Bees: Image Loading and Processing - Loading, transforming, and understanding images of honey bees and bumble bees in Python;
+    - Naïve Bees: Predict Species from Images - Building a model that can automatically detect honey bees and bumble bees in images;
+    - Naïve Bees: Deep Learning with Images - Building a deep learning model that can automatically detect honey bees and bumble bees in images.
 
 DataCamp Projects link: https://www.datacamp.com/projects
