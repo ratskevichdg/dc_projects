@@ -17,13 +17,15 @@ Project's summary:
 
 - Mobile Games A/B Testing with Cookie Cats - A/B test from the popular mobile puzzle game, Cookie Cats;
 
-- Comparing Cosmetics by Ingredients - Ingredient lists processing for cosmetics on Sephora then visualize similarity using t-SNE and Bokeh.
+- Comparing Cosmetics by Ingredients - Ingredient lists processing for cosmetics on Sephora then visualize similarity using t-SNE and Bokeh;
 
-- Exploring the Bitcoin Cryptocurrency Market - Exploration the market capitalization of Bitcoin and other cryptocurrencies
+- Exploring the Bitcoin Cryptocurrency Market - Exploration the market capitalization of Bitcoin and other cryptocurrencies;
 
 - Naive Bees - Consists of three notebooks:
     - Naïve Bees: Image Loading and Processing - Loading, transforming, and understanding images of honey bees and bumble bees in Python;
     - Naïve Bees: Predict Species from Images - Building a model that can automatically detect honey bees and bumble bees in images;
-    - Naïve Bees: Deep Learning with Images - Building a deep learning model that can automatically detect honey bees and bumble bees in images.
+    - Naïve Bees: Deep Learning with Images - Building a deep learning model that can automatically detect honey bees and bumble bees in images;
+
+- Bad passwords and the NIST guidelines - Checking what passwords fail to conform to the National Institute of Standards and Technology password guidelines.
 
 DataCamp Projects link: https://www.datacamp.com/projects
