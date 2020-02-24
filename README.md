@@ -28,4 +28,6 @@ Project's summary:
 
 - Bad passwords and the NIST guidelines - Checking what passwords fail to conform to the National Institute of Standards and Technology password guidelines.
 
+- ASL Recognition with Deep Learning - Building a convolutional neural network to classify images of letters from American Sign Language
+
 DataCamp Projects link: https://www.datacamp.com/projects
